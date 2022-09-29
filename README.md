@@ -1,5 +1,5 @@
 [![QQ Group](https://img.shields.io/badge/QQ%20Group-862401307-red.svg)]()
-# JPush Flutter Plugin
+# JPush Flutter Plugin Google Play版本
 > flutter 2.0 请切换至 dev-2.x 分支。
 ### 安装
 
