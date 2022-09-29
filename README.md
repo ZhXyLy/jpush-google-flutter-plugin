@@ -1,5 +1,5 @@
 [![QQ Group](https://img.shields.io/badge/QQ%20Group-862401307-red.svg)]()
-# JPush Flutter Plugin
+# JPush Flutter Plugin Google Play版本
 
 ### 安装
 
@@ -9,14 +9,14 @@
   
 //github  集成
 dependencies:
-  jpush_flutter:
+  jpush_google_flutter:
     git:
-      url: git://github.com/jpush/jpush-flutter-plugin.git
+      url: git://github.com/ZhXyLy/jpush-google-flutter-plugin.git
       ref: master
       
 // pub 集成
 dependencies:
-  jpush_flutter: 2.3.8
+  jpush_google_flutter: 1.0.0
 ```
 
 ### 配置
